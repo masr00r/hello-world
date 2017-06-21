@@ -37,13 +37,13 @@ public class prime_numbers {
 	       
 	        
 	    }
-	    int j=0;
-		for(int i=0;i<=a;i++){
-			if(arr[i]==true){
-				arr1[j]= i;
-				j++;
-			}
-		}
+//	    int j=0;
+//		for(int i=0;i<=a;i++){
+//			if(arr[i]==true){
+//				arr1[j]= i;
+//				j++;
+//			}
+//		}
 //		for(int i=0;i<arr1.length;i++){
 //			int num = a-arr1[i];
 //			if(binarySearch(arr1,0,arr1.length,num)){
