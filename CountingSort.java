@@ -1,4 +1,4 @@
-//Counting Sort
+//Counting Sort for an integer between range of 1 and 100000
 import java.util.*;
 
 
